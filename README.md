@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my profile, Stranger
 
-<!--
-**Lidne/Lidne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div><img src="https://media1.tenor.com/m/lcrQBLljnNcAAAAC/dark-souls-knight.gif" style="width: 50%; height: 50%;" alt="Can't upload a gif"></div>
+ 
+## Who am I?  
 
-Here are some ideas to get you started:
+Currently I'm a starting backend developer.  
+Interested in: **backend**, **cryptography**, **gamedev**  
+## Techstack:  
+***Python 🐍, Java ☕, C# 🎮***  
+**FastApi, Flask, SQL, Spring**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Open to job offers! 
